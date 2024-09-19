@@ -2,7 +2,7 @@
 ![cloud-vs-on-premises.png](https://intranet.ai/media/3206/cloud-vs-on-premises.png)
 
 ## Definition
-> On-Premise bezieht sich auf Software, Hardware und IT-Infrastruktur, die lokal innerhalb des Unternehmens, auf firmeneigenen Servern und Netzwerken, installiert und betrieben wird. Im Gegensatz zu Cloud-basierten Modellen wie IaaS, PaaS oder SaaS wird bei einer On-Premise-Lösung die gesamte Infrastruktur innerhalb des Unternehmens verwaltet, einschließlich Software, Daten und Hardware.
+> [On-Premise](https://de.wikipedia.org/wiki/On-Premises) bezieht sich auf Software, Hardware und IT-Infrastruktur, die lokal innerhalb des Unternehmens, auf firmeneigenen Servern und Netzwerken, installiert und betrieben wird. Im Gegensatz zu Cloud-basierten Modellen wie IaaS, PaaS oder SaaS wird bei einer On-Premise-Lösung die gesamte Infrastruktur innerhalb des Unternehmens verwaltet, einschließlich Software, Daten und Hardware.
 
 ## Hauptmerkmale von On-Premise
 - `Lokale Installation`: Software und Daten werden auf den eigenen Servern und Computern des Unternehmens installiert und gespeichert.
