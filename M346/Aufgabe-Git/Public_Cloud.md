@@ -2,7 +2,7 @@
 ![Public-Cloud-1024x484.png](https://www.occloud9.com/wp-content/uploads/2021/01/Public-Cloud-1024x484.png)
 
 ## Definition
-> Public Cloud ist ein Cloud-Computing-Modell, bei dem Cloud-Ressourcen wie Server, Speicher, Datenbanken, und Anwendungen von einem Drittanbieter über das öffentliche Internet bereitgestellt und von mehreren Kunden gemeinsam genutzt werden. Die Infrastruktur wird vollständig vom Cloud-Anbieter verwaltet und gewartet, sodass Kunden auf eine breite Palette von Cloud-Diensten zugreifen können, ohne in eigene Hardware oder Infrastruktur investieren zu müssen.
+> [Public Cloud](https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-is-a-public-cloud) ist ein Cloud-Computing-Modell, bei dem Cloud-Ressourcen wie Server, Speicher, Datenbanken, und Anwendungen von einem Drittanbieter über das öffentliche Internet bereitgestellt und von mehreren Kunden gemeinsam genutzt werden. Die Infrastruktur wird vollständig vom Cloud-Anbieter verwaltet und gewartet, sodass Kunden auf eine breite Palette von Cloud-Diensten zugreifen können, ohne in eigene Hardware oder Infrastruktur investieren zu müssen.
 
 ## Hauptmerkmale der Public Cloud
 - `Gemeinsame Ressourcen`: Die IT-Infrastruktur wird von mehreren Kunden gemeinsam genutzt, wobei jeder Kunde seine eigenen isolierten Umgebungen hat.
