@@ -2,7 +2,7 @@
 ![IaaS.png](https://www.redhat.com/rhdc/managed-files/styles/wysiwyg_full_width/private/iaas_focus-paas-saas-diagram-1200x1046.png.webp?itok=AaYwe43x)
 
 ## Definition
-> IaaS (Infrastructure as a Service) ist ein Cloud-Computing-Modell, bei dem grundlegende IT-Infrastrukturkomponenten wie Server, Speicher, Netzwerke und Virtualisierung über das Internet bereitgestellt werden. Anstatt physische Hardware vor Ort zu besitzen und zu verwalten, können Unternehmen die benötigte Infrastruktur auf Abruf von einem Cloud-Anbieter mieten.
+> [IaaS (Infrastructure as a Service)](https://cloud.google.com/learn/what-is-iaas?hl=de) ist ein Cloud-Computing-Modell, bei dem grundlegende IT-Infrastrukturkomponenten wie Server, Speicher, Netzwerke und Virtualisierung über das Internet bereitgestellt werden. Anstatt physische Hardware vor Ort zu besitzen und zu verwalten, können Unternehmen die benötigte Infrastruktur auf Abruf von einem Cloud-Anbieter mieten.
 
 ## Hauptmerkmale von IaaS
 - `Virtuelle Maschinen`: Nutzer können virtuelle Server (VMs) in der Cloud **erstellen**, **konfigurieren** und **betreiben**, oft mit verschiedenen Betriebssystemen und Spezifikationen.
