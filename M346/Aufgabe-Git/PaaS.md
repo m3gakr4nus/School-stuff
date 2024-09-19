@@ -2,7 +2,7 @@
 ![paas.jpg](https://www.webhostingsecretrevealed.net/wp-content/uploads/paas.jpg)
 
 ## Definition
-> PaaS (Platform as a Service) ist ein Cloud-Computing-Modell, das eine komplette Entwicklungs- und Bereitstellungsumgebung in der Cloud bietet. Mit PaaS können Entwickler Anwendungen schnell entwickeln, testen und bereitstellen, ohne sich um die zugrunde liegende Infrastruktur kümmern zu müssen, wie z. B. Server, Speicher oder Netzwerkressourcen.
+> [PaaS (Platform as a Service)](https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-is-paas) ist ein Cloud-Computing-Modell, das eine komplette Entwicklungs- und Bereitstellungsumgebung in der Cloud bietet. Mit PaaS können Entwickler Anwendungen schnell entwickeln, testen und bereitstellen, ohne sich um die zugrunde liegende Infrastruktur kümmern zu müssen, wie z. B. Server, Speicher oder Netzwerkressourcen.
 
 ## Hauptmerkmale von PaaS
 - `Entwicklungs-Tools`: Bietet integrierte Entwicklungsumgebungen (IDEs), Datenbanken, Middleware, Business Analytics und andere Tools, die für die Entwicklung von Anwendungen benötigt werden.
