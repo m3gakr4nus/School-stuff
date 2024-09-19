@@ -2,7 +2,7 @@
 ![saas.jpg](https://cdn.shortpixel.ai/spai/q_glossy+w_928+to_auto+ret_img/www.webhostingsecretrevealed.net/wp-content/uploads/saas.jpg)
 
 # Definition
-> SaaS (Software as a Service) ist ein Cloud-Computing-Modell, bei dem Software-Anwendungen über das Internet bereitgestellt und von einem Drittanbieter gehostet werden. Anstatt Software auf lokalen Computern oder Servern zu installieren und zu warten, greifen Benutzer auf die Anwendung über einen Webbrowser zu, in der Regel durch ein Abonnementmodell.
+> [SaaS (Software as a Service)](https://www.oracle.com/ch-de/applications/what-is-saas/) ist ein Cloud-Computing-Modell, bei dem Software-Anwendungen über das Internet bereitgestellt und von einem Drittanbieter gehostet werden. Anstatt Software auf lokalen Computern oder Servern zu installieren und zu warten, greifen Benutzer auf die Anwendung über einen Webbrowser zu, in der Regel durch ein Abonnementmodell.
 
 ## Hauptmerkmale von SaaS
 - `Webbasierter Zugriff`: Die Software wird über das Internet bereitgestellt und kann von jedem Gerät mit einem Webbrowser aus genutzt werden.
