@@ -2,7 +2,7 @@
 ![privatecloud.png](https://th.bing.com/th/id/R.84604d81a105dc0e1a6ea23116b1367b?rik=I9Df19861Fj%2bHQ&riu=http%3a%2f%2fwww.visorvdi.com%2fwp-content%2fuploads%2f2018%2f04%2fCloud-1.png&ehk=Lf4O6fPpAoDCL1HVDx3NYx%2bOCNaCOTPJrTHkP6hBk0U%3d&risl=&pid=ImgRaw&r=0)
 
 ## Definition
-> **Private Cloud** ist ein Cloud-Computing-Modell, bei dem Cloud-Ressourcen ausschließlich für ein einziges Unternehmen bereitgestellt und verwaltet werden. Im Gegensatz zur Public Cloud, die von mehreren Kunden gemeinsam genutzt wird, bietet die Private Cloud eine dedizierte Umgebung für ein einzelnes Unternehmen, wodurch ein höheres Maß an Kontrolle, Sicherheit und Datenschutz gewährleistet wird.
+> [**Private Cloud**](https://www.atlassian.com/de/devops/frameworks/private-cloud) ist ein Cloud-Computing-Modell, bei dem Cloud-Ressourcen ausschließlich für ein einziges Unternehmen bereitgestellt und verwaltet werden. Im Gegensatz zur Public Cloud, die von mehreren Kunden gemeinsam genutzt wird, bietet die Private Cloud eine dedizierte Umgebung für ein einzelnes Unternehmen, wodurch ein höheres Maß an Kontrolle, Sicherheit und Datenschutz gewährleistet wird.
 
 ## Hauptmerkmale der Private Cloud
 - `Exklusive Nutzung`: Die Cloud-Infrastruktur wird nur von einem einzigen Unternehmen genutzt, entweder vor Ort (On-Premise) oder bei einem Cloud-Anbieter.
