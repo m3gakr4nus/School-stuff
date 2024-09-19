@@ -2,7 +2,7 @@
 ![Hybrid-Cloud.jpg](https://www.lagarde.nl/wp-content/uploads/2021/12/Hybrid-Cloud.jpg)
 
 ## Definition
-> Hybrid Cloud ist ein Cloud-Computing-Modell, das eine Kombination aus Public Cloud, Private Cloud und On-Premise-Infrastruktur verwendet. Dieses Modell ermöglicht es Unternehmen, ihre IT-Ressourcen flexibel zu verteilen, indem sie die Vorteile verschiedener Umgebungen nutzen. In einer Hybrid Cloud können Workloads und Daten zwischen Public und Private Clouds sowie On-Premise-Rechenzentren verschoben werden, je nach Geschäftsanforderungen, Sicherheitsbedürfnissen und Leistungsanforderungen.
+> [Hybrid Cloud](https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing) ist ein Cloud-Computing-Modell, das eine Kombination aus Public Cloud, Private Cloud und On-Premise-Infrastruktur verwendet. Dieses Modell ermöglicht es Unternehmen, ihre IT-Ressourcen flexibel zu verteilen, indem sie die Vorteile verschiedener Umgebungen nutzen. In einer Hybrid Cloud können Workloads und Daten zwischen Public und Private Clouds sowie On-Premise-Rechenzentren verschoben werden, je nach Geschäftsanforderungen, Sicherheitsbedürfnissen und Leistungsanforderungen.
 
 ## Hauptmerkmale der Hybrid Cloud
 - `Integration`: Ermöglicht die nahtlose Integration von Public Cloud, Private Cloud und On-Premise-Infrastruktur, sodass Workloads und Daten zwischen ihnen verschoben werden können.
