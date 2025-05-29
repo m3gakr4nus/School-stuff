@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  moodle:
+    build: .
+    container_name: Migration-moodle-1
+    ports:
+      - "80:80"
+    volumes:
+      - ./moodledata:/var/www/moodledata
+    depends_on:
+      - mariadb
+    environment:
+      - MOODLE_DB_HOST=mariadb
+      - MOODLE_DB_USER=moodle
+      - MOODLE_DB_PASSWORD=deinpasswort
+      - MOODLE_DB_NAME=moodle
+
+  mariadb:
+    image: mariadb:latest
+    container_name: mariadb-1
+    restart: always
+    environment:
+      - MARIADB_ROOT_PASSWORD=rootpass
+      - MARIADB_DATABASE=moodle
+      - MARIADB_USER=moodle
+      - MARIADB_PASSWORD=deinpasswort
+    volumes:
+      - ./db_data:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin-1
+    restart: always
+    ports:
+      - "8081:80"
+    environment:
+      - PMA_HOST=mariadb
+      - PMA_PORT=3306
